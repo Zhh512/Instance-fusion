@@ -22,5 +22,4 @@ avoiding the neglect of weak modality information. Through the
 above operations, we fully exploited the multi-level information
 from radar and validate the effectiveness of fusion at different
 stages. Our single-frame radar-camera fusion model achieves an
-NDS of 49.7% and a map of 41.5% on the nuScenes dataset. Code
-is released at https://github.com/Zhh512/Full-stage-fusion.git
+NDS of 49.7% and a map of 41.5% on the nuScenes dataset. 
